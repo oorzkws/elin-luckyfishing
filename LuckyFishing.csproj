@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
     <PropertyGroup>
-        <Company>Author</Company>
-        <Description>Mod Template for Elin</Description>
+        <Company>Mute</Company>
+        <Description>LUC-based fishing mod for Elin</Description>
         <FileVersion>0.1.0</FileVersion>
     </PropertyGroup>
     <PropertyGroup>
