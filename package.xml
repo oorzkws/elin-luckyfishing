@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+    <title>Lucky Fishing</title>
+    <id>mute.luckyfishing</id>
+    <author>Mute</author>
+    <builtin>false</builtin>
+    <loadPriority>100</loadPriority>
+    <version>0.23.39</version>
+    <description>Fishing rolls use luck bonuses</description>
+</Meta>
